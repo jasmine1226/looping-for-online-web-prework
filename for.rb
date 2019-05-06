@@ -8,5 +8,3 @@ def using_for
 		item += 1
 	end
 end
-
-
